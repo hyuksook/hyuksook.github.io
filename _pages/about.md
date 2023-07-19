@@ -9,7 +9,6 @@ profile:
   image: hyuksoo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>E-mail: hyuksoo@sogang.ac.kr</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -27,3 +26,4 @@ I am a PhD student in the <a href="https://ecs.sogang.ac.kr/ecs/index_new.html" 
 
 My current research interests lie in machine learning and quantitative finance.
 
+E-mail: hyuksoo@sogang.ac.kr
