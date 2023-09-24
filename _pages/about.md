@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a PhD student in the <a href="https://ecs.sogang.ac.kr/ecs/index_new.html" target="_blank" rel="noopener noreferrer">Department of Computer Science and Engineering</a> of <a href="http://wwwe.sogang.ac.kr" target="_blank" rel="noopener noreferrer">Sogang University</a>, where I am advised by <a href="http://fml.sogang.ac.kr/">Professor Saejoon Kim</a>. I received an MS in electrical engineering from <a href="https://www.kaist.ac.kr/en/" target="_blank" rel="noopener noreferrer">Korea Advanced Institute of Science and Technology</a> and a BS in electronic engineering from Sogang University.
+I am a PhD student in the <a href="https://ecs.sogang.ac.kr/ecs/index_new.html" target="_blank" rel="noopener noreferrer">Department of Computer Science and Engineering</a> at <a href="http://wwwe.sogang.ac.kr" target="_blank" rel="noopener noreferrer">Sogang University</a>, where I am advised by <a href="http://fml.sogang.ac.kr/">Professor Saejoon Kim</a>. I received an MS in electrical engineering from <a href="https://www.kaist.ac.kr/en/" target="_blank" rel="noopener noreferrer">Korea Advanced Institute of Science and Technology</a> and a BS in electronic engineering from Sogang University.
 
 My current research interests lie in machine learning and quantitative finance.
 
