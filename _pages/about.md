@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I recently obtained a PhD in Computer Science and Engineering from <a href="http://wwwe.sogang.ac.kr" target="_blank" rel="noopener noreferrer">Sogang University</a>, where I was advised by <a href="http://fml.sogang.ac.kr/">Professor Saejoon Kim</a>, in February 2024.
+I obtained a PhD in Computer Science and Engineering from <a href="http://wwwe.sogang.ac.kr" target="_blank" rel="noopener noreferrer">Sogang University</a> where I was advised by Professor Saejoon Kim.
 I received an MS in electrical engineering from <a href="https://www.kaist.ac.kr/en/" target="_blank" rel="noopener noreferrer">Korea Advanced Institute of Science and Technology</a> and a BS in electronic engineering from Sogang University.
 
 My current research interests lie in machine learning and quantitative finance.
