@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD graduate | Department of Computer Science and Engineering, Sogang University
+# subtitle: PhD graduate | Department of Computer Science and Engineering, Sogang University
 
 profile:
   align: right
