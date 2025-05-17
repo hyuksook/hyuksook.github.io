@@ -27,4 +27,5 @@ I received an MS in Electrical Engineering from <a href="https://www.kaist.ac.kr
 
 My current research interests lie in machine learning and quantitative finance.
 
-E-mail: hyuksoo@sogang.ac.kr
+<!-- E-mail: hyuksoo@sogang.ac.kr -->
+
